@@ -1,0 +1,16 @@
+---
+layout: post
+title: This is the title of the final chapter
+postHero: /images/shark.jpg
+author: Nick Merwin
+authorTwitter: https://twitter.com/nickmerwin
+gravatar: https://gravatar.com/avatar/e2d6ce2ba5c1b6d674ae8ff2b3b45d23?s=150
+postFooter: Additional information, and maybe a <a href="#">link or two</a>
+---
+Though I cannot tell why it was *exactly* that those stage managers, the Fates, put me down for this shabby part of a whaling voyage, when others were set down for magnificent parts in high tragedies, and short and easy parts in genteel comedies, and jolly parts in farces—though I cannot tell why this was exactly; yet, now that I recall all the circumstances, 
+
+<img class="pull-right" src="https://placekitten.com/g/400/200" alt="kitten">
+
+By reason of these things, then, the *whaling voyage* was welcome; the great flood-gates of the wonder-world swung open, and in the wild conceits that swayed me to my purpose, two and two there floated into my inmost soul, endless processions of the whale, and, mid most of them all, one grand hooded phantom, like a snow hill in the air.
+
+Chief among these motives was the overwhelming idea of the great whale himself. Such a portentous and mysterious monster roused all my curiosity. Then the wild and distant seas where he rolled his island bulk; the undeliverable, nameless perils of the whale; these, with all the attending marvels of a thousand Patagonian sights and sounds, helped to sway me to my wish. With other men, perhaps, such things would not have been inducements; but as for me, I am tormented with an everlasting itch for things remote. 
