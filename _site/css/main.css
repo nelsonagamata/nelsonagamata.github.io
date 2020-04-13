@@ -15,7 +15,7 @@ body {
 	padding-top: 10vh;
 	width: 100%;
 }
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 { 
 	font-family: 'Raleway', sans-serif;
 	font-weight: 100;
 }
@@ -55,7 +55,7 @@ h2 ~ p {
 }
 .header-nav {
 	float: right;
-	padding: 4vh 60px 0 0;
+	padding: 5.5vh 60px 0 0;
 }
 .header-nav > li {
 	display: inline-block;
@@ -180,14 +180,14 @@ h2 ~ p {
 	color: #333;
 }
 /* HIDE MENU ITEM IN THE FOOTER */
-/* .footer .dropdown:hover .drop-menu,
+.footer .dropdown:hover .drop-menu,
 .footer .drop-trigger:after {
 	display: none;
 }
 .footer .drop-trigger {
 	padding-right: 0;
-} */
-.footer .drop-trigger:after {
+}
+/* .footer .drop-trigger:after {
 	border: 0.3em solid;
 	border-color: transparent transparent #fff;
 	margin-top: -0.25em;
@@ -205,7 +205,7 @@ h2 ~ p {
   right: 1em;
   top: auto;
   bottom: 0.4em;
-}
+} */
 /* MOBILE MENU */
 .mobile-menu-check,
 .show-mobile-menu {
@@ -330,7 +330,6 @@ h2 ~ p {
 .half-hero {
 	background-position: center center;
 	background-size: cover;
-	height: 40vh;
 	height: 40vh;
 }
 /* SOCIAL STYLES */
